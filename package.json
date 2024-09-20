@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "description": "learning backend project ",
   "main": "index.js",
-  "type":"module",
+  "type": "module",
   "scripts": {
-    "dev":"nodemon src/index"
+    "dev": "nodemon src/index"
   },
   "keywords": [
     "javascript"
@@ -13,6 +13,7 @@
   "author": "Anubhav Jaiswal",
   "license": "ISC",
   "devDependencies": {
-    "nodemon": "^3.1.6"
+    "nodemon": "^3.1.6",
+    "prettier": "^3.3.3"
   }
 }
